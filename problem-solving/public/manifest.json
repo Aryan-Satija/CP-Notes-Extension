@@ -1,0 +1,17 @@
+{
+  "name": "Task Loop",
+  "version": "1.0.0",
+  "description": "Task Manager",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open Notes"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "icons":{
+    "16": "bird.png",
+    "32": "bird.png"
+  }
+}
